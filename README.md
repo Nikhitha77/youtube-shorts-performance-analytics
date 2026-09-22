@@ -89,8 +89,8 @@ YouTube-Analytics-Project/
 * `YouTube_Analytics_Queries_Final.sql` — SQL queries used for data analysis
 * `YouTube_Analytics_Project.pbix` — Power BI dashboard
 * `YouTube Analytics Project Documentation.docx` — Detailed project documentation
+* `YouTube_Analytics_Dashboard.png.png` — Screenshot of the Power BI dashboard
 * `README.md` — Project overview and summary
 
-```
 
 
