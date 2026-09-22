@@ -78,8 +78,10 @@ YouTube-Analytics-Project/
 ├── YouTube_Analytics_Queries_Final.sql
 ├── YouTube_Analytics_Project.pbix
 ├── YouTube Analytics Project Documentation.docx
+├── YouTube_Analytics_Dashboard.png.png
 └── README.md
 ```
+
 
 ### File Descriptions
 
