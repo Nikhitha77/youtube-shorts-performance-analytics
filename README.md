@@ -43,6 +43,7 @@ SQL was used to analyze:
 ## Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of YouTube Shorts performance.
+![YouTube Analytics Dashboard](YouTube_Analytics_Dashboard.png)
 
 ### Dashboard Components
 
